@@ -1,22 +1,38 @@
-tensorflow==2.8.0  # Deep learning framework used for building and training models
-numpy==1.21.2      # Numerical computing library for array handling and matrix operations
-matplotlib==3.4.3   # Library for creating visualizations such as charts and graphs
-pandas==1.3.3       # Data manipulation and analysis, useful for handling datasets
-scikit-learn==0.24.2 # Machine learning library used for model evaluation and metrics (e.g., classification report)
-Pillow==8.4.0       # Python Imaging Library (PIL) fork for image processing tasks
-keras==2.8.0        # High-level API for neural networks, part of TensorFlow
-seaborn==0.11.2     # Statistical data visualization built on top of matplotlib
-scipy==1.7.1        # Library for scientific computing and advanced mathematical functions
-opencv-python==4.5.3.56  # Computer vision library for image processing and manipulation
-tqdm==4.62.3        # Library for displaying progress bars in loops (useful during training)
-scikit-image==0.18.3 # Image processing algorithms for tasks like segmentation and feature extraction
-h5py==3.1.0         # HDF5 file format interface for saving and loading model weights
-requests==2.26.0    # Library for handling HTTP requests, useful for downloading datasets or APIs
-pytorch==1.10.0     # Alternative deep learning framework (PyTorch), optional if used
-torchvision==0.11.1 # Image processing library for computer vision, used with PyTorch
+# Jupyter Notebook or Google colab- for running and writing the notebook
+notebook
 
+# Numpy - for numerical computations
+numpy
 
-#How to use this:
-#Install dependencies: Anyone who clones your GitHub repo can simply install all the dependencies by running:
+# Pandas - for data handling and manipulation
+pandas
+
+# Matplotlib - for plotting graphs and visualizations
+matplotlib
+
+# Seaborn - for advanced statistical plots
+seaborn
+
+# scikit-learn - for model evaluation metrics like classification report
+scikit-learn
+
+# TensorFlow - for building and training deep learning models
+tensorflow
+
+# Keras - high-level neural networks API (included in TensorFlow >= 2.0)
+keras
+
+# OpenCV - for image processing
+opencv-python
+
+# tqdm - for showing training progress bars
+tqdm
+
+# Pillow - for image loading and manipulation
+Pillow
+
+# glob2 - for file pattern matching in dataset directories
+glob2
 
 pip install -r requirements.txt
+
