@@ -1,38 +1,42 @@
-# Jupyter Notebook or Google colab- for running and writing the notebook
+# Jupyter Notebook - to run and write code interactively
 notebook
 
-# Numpy - for numerical computations
+# Numpy - numerical operations
 numpy
 
-# Pandas - for data handling and manipulation
+# Pandas - data manipulation and analysis
 pandas
 
-# Matplotlib - for plotting graphs and visualizations
+# Matplotlib - basic visualizations
 matplotlib
 
-# Seaborn - for advanced statistical plots
+# Seaborn - statistical data visualization
 seaborn
 
-# scikit-learn - for model evaluation metrics like classification report
+# Scikit-learn - evaluation metrics (e.g., classification report, confusion matrix)
 scikit-learn
 
-# TensorFlow - for building and training deep learning models
+# TensorFlow - building and training deep learning models
 tensorflow
 
-# Keras - high-level neural networks API (included in TensorFlow >= 2.0)
+# Keras - high-level deep learning API (now part of TensorFlow)
 keras
 
-# OpenCV - for image processing
+# OpenCV - image processing and manipulation
 opencv-python
 
-# tqdm - for showing training progress bars
+# tqdm - progress bars for loops and training
 tqdm
 
-# Pillow - for image loading and manipulation
+# Pillow - image loading and saving
 Pillow
 
-# glob2 - for file pattern matching in dataset directories
+# glob2 - for file path pattern matching
 glob2
+
+# Kaggle - for downloading dataset via Kaggle API
+kaggle
+
 
 
 #How to Use:--- Install using the command:
