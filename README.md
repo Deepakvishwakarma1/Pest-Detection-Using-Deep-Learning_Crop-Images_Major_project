@@ -1,4 +1,4 @@
-# o New Plant Diseases Dataset
+# New Plant Diseases Dataset
 Pest Detection Using Deep Learning(Crop Images)
 #  Plant Disease and Pest Detection Using Deep Learning
 
