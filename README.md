@@ -12,7 +12,7 @@ This project was completed as part of my MSc dissertation at the **University of
 - **Classes**: 38 (including both healthy and diseased)
 - **Split**: 80% training, 20% validation, 33 test images
 
-## 🤖 Models Used
+##  Models Used
 
 | Model        | Description                                  |
 |--------------|----------------------------------------------|
