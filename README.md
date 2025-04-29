@@ -39,5 +39,5 @@ I used a dataset from Kaggle called the **New Plant Diseases Dataset**, which in
 
 ---
 
-## What's in This Repository
+
 
