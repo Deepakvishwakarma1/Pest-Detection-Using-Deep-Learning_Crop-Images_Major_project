@@ -16,7 +16,7 @@ pytorch==1.10.0     # Alternative deep learning framework (PyTorch), optional if
 torchvision==0.11.1 # Image processing library for computer vision, used with PyTorch
 
 
-How to use this:
-Install dependencies: Anyone who clones your GitHub repo can simply install all the dependencies by running:
+#How to use this:
+#Install dependencies: Anyone who clones your GitHub repo can simply install all the dependencies by running:
 
 pip install -r requirements.txt
