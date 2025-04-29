@@ -11,6 +11,11 @@ This project was completed as part of my MSc dissertation at the **University of
 - **Total Images**: ~87,000 RGB images
 - **Classes**: 38 (including both healthy and diseased)
 - **Split**: 80% training, 20% validation, 33 test images
+  The Dataset is bigger than 25 MB due to which Github is not allowing me to upload the complete data ut you can download it via the above given link
+  error screenshot is attached
+  ![image](https://github.com/user-attachments/assets/1689a9fa-3589-44d2-9c7b-a5626270a12f)
+
+
 
 ##  Models Used
 
